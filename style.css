@@ -421,3 +421,8 @@ body {
 .info-page ul li {
   margin-bottom: 10px;
 }
+.card {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
