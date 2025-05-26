@@ -394,3 +394,30 @@ body {
 .slider .next {
   right: 10px;
 }
+.info-page {
+  padding: 60px 20px;
+  max-width: 900px;
+  margin: auto;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+
+.info-page h1, .info-page h2 {
+  color: #007BFF;
+  margin-bottom: 20px;
+}
+
+.info-page p {
+  line-height: 1.8;
+  margin-bottom: 20px;
+}
+
+.info-page ul {
+  padding-left: 20px;
+  margin-bottom: 20px;
+}
+
+.info-page ul li {
+  margin-bottom: 10px;
+}
